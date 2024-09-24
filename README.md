@@ -17,7 +17,7 @@ Backend: https://github.com/ptpl-source/starter-pack-interview-be
 
 # Important:
 
-**Time Acknowledge**: After cloning the repository, you must send an email after 3 days for both FE & BE repo to the following recipients: kuncoro.baroto@pertamina.com, ahmad.saparhadi@pertamina.com
+**Time Acknowledge**: After cloning the repository, you must send an email after 3 days for both FE & BE repo from your github link to the following recipients: kuncoro.baroto@pertamina.com, ahmad.saparhadi@pertamina.com
 and sopian.iskandar@pertamina.com
 
 ---
