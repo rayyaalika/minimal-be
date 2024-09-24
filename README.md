@@ -31,8 +31,7 @@ You are required to create a **backend API** using either **Golang** or **Node.j
 ### Step 1: Clone and Setup the Frontend
 
 1. **Clone this repository** clone it locally.
-2. **Install dependencies** using Yarn or npm (instructions provided below).
-3. Set up the frontend locally by running the development server with `yarn dev` or `npm run dev`.
+2. **Install dependencies** using your preferable language either, golang, python or nodejs.
 
 ### Step 2: Build the Backend API
 
